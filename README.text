@@ -1,0 +1,27 @@
+Simple To-Do List App
+Overview
+This is a simple to-do list application designed to help you keep track of tasks and manage your time effectively. It provides basic functionalities to add, remove, and mark tasks as completed.
+
+Features
+Add Tasks: Easily add new tasks to your to-do list.
+Remove Tasks: Delete tasks that are no longer needed.
+Mark Completed: Mark tasks as completed once you finish them.
+Simple Interface: User-friendly interface for easy navigation.
+Installation
+Clone or download the repository.
+Open the project in your preferred code editor.
+Run index.html in your web browser.
+Usage
+Adding a Task: Simply type your task into the input field and press Enter to add it to the list.
+Removing a Task: Click on the delete icon next to the task you want to remove.
+Marking Completed: Click on the checkbox next to the task to mark it as completed.
+Contributing
+Contributions are welcome! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+If you have any questions or suggestions, feel free to contact me at ammar.alshami2345@gmail.com.
+
+Feel free to customize this README file to better suit your specific to-do list application.
